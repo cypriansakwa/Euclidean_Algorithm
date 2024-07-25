@@ -7,5 +7,5 @@ The Euclidean algorithm is a method for determining the greatest common divisor 
 1. Clone the repository or download the source code.
 
    ```sh
-   git clone https://github.com/cypriansakwa/Euclidean_algorithm.git
-   cd Euclidean_algorithm
+   git clone https://github.com/cypriansakwa/Euclidean_Algorithm.git
+   cd Euclidean_Algorithm
